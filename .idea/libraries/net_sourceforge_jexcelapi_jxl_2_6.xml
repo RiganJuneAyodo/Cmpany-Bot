@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="net.sourceforge.jexcelapi:jxl:2.6" type="repository">
+    <properties maven-id="net.sourceforge.jexcelapi:jxl:2.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/jexcelapi/jxl/2.6/jxl-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
